@@ -4,8 +4,11 @@ function Navigation() {
   return (
     <>
       <Link to={"/"}>Home</Link>
-      <Link to={"/products"}>Products</Link>
-      <Link to={"/contact"}>Contact</Link>
+      <Link to={"/track"}>The Landscape</Link>
+      <Link to={"/history"}>History</Link>
+      <Link to={"/styleguide"}>Styleguide</Link>
+      <Link to={"/essay"}>Essay</Link>
+      <Link to={"/artwork"}>Artwork</Link>
     </>
   );
 }
