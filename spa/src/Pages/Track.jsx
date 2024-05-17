@@ -1,9 +1,13 @@
+import React from "react";
+import "../style/home.css";
+
 function Track() {
     return (
-      <>
-        <h1>Routes of the TT</h1>
-        <h3>Welcome!</h3>
-      </>
+      <div>
+        <h1 className="Title">Routes of the TT</h1>
+        </div>
+
+        
     );
   }
   

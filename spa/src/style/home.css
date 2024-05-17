@@ -1,7 +1,12 @@
-.One{
-    color: rgb(255, 114, 7);
+.Title{
+    color: rgb(255, 166, 0);
+  text-shadow: -1px 1px 0 rgb(220, 120, 20);
+    
+   
+}
+
+.Title{
     text-align: center;
     margin: 30px;
     padding-top: 30px;
-   
 }

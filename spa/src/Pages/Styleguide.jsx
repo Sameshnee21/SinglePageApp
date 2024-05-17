@@ -1,9 +1,12 @@
+import React from "react";
+import "../style/home.css";
+
 function Styleguide() {
     return (
-      <>
-        <h1>Behind the Scenes</h1>
-        <h3>Welcome!</h3>
-      </>
+      <div >
+        <h1 className="Title">Behind the Scenes</h1>
+        
+        </div>
     );
   }
   

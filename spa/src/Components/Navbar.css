@@ -1,12 +1,13 @@
 *{
     
     margin: 0%;
+    background-color: rgb(18, 18, 18);
 }
 
 .nav {
     width: 100%;
-    height: 80px;
-    background-color: rgb(6, 22, 111);
+    height: 90px;
+    background-color: rgb(26, 26, 27);
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -19,9 +20,9 @@
   }
 
   .home a{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    
+    color: gold;
+    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson,
+      -4px 4px 0 crimson, -5px 5px 0 crimson, -6px 6px 0 crimson;
     font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
@@ -33,8 +34,10 @@
   }
   
   .links a {
-    text-decoration: none;
-    color: rgb(255, 145, 0);
+    color: gold;
+    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson,
+      -4px 4px 0 crimson, -5px 5px 0 crimson, -6px 6px 0 crimson;
+    
     margin-left: 20px;
     font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

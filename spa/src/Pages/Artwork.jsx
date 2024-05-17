@@ -1,9 +1,12 @@
+import React from "react";
+import "../style/home.css";
+
 function Artwork() {
     return (
-      <>
-        <h1>Web Art</h1>
+      <div>
+        <h1  className="Title">Web Art</h1>
         <h3>To be continued...</h3>
-      </>
+      </div>
     );
   }
   

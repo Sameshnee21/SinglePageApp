@@ -1,9 +1,12 @@
+import React from "react";
+import "../style/home.css";
+
 function History() {
     return (
-      <>
-        <h1>Isle of Man TT: The Starting Line</h1>
-        <h3>Welcome!</h3>
-      </>
+      <div >
+        <h1 className="Title">Isle of Man TT: The Starting Line</h1>
+        
+        </div>
     );
   }
   

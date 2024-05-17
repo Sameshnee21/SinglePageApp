@@ -6,13 +6,14 @@ function Navigation() {
     <div className="nav">
 
       <div className="home">
-      <Link to={"/"}>Logo Here</Link>
+      <Link to={"/"}>Home</Link>
       </div>
 
       <div className="links">
       
-      <Link to={"/track"}>The Landscape</Link>
       <Link to={"/history"}>History</Link>
+      <Link to={"/track"}>The Landscape</Link>
+      
       <Link to={"/styleguide"}>Styleguide</Link>
       <Link to={"/essay"}>Essay</Link>
       <Link to={"/artwork"}>Artwork</Link>
