@@ -17,6 +17,7 @@ function Navigation() {
       <Link to={"/styleguide"}>Styleguide</Link>
       <Link to={"/essay"}>Essay</Link>
       <Link to={"/artwork"}>Artwork</Link>
+      <Link to={"/about"}>About</Link>
 
       </div>
 
