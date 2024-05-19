@@ -6,6 +6,7 @@ import Styleguide from "./Pages/Styleguide";
 import Essay from "./Pages/Essay";
 import Artwork from "./Pages/Artwork";
 import About from "./Pages/About";
+
 import Navigation from "./Components/Navigation";
 
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/history" element={<History />} />
           <Route path="/styleguide" element={<Styleguide />} />
           <Route path="/essay" element={<Essay />} />
+         
           <Route path="/artwork" element={<Artwork />} />
           <Route path="/about" element={<About />} />
           

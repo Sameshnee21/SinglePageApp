@@ -15,7 +15,7 @@ function Navigation() {
       <Link to={"/track"}>The Landscape</Link>
       
       <Link to={"/styleguide"}>Styleguide</Link>
-      <Link to={"/essay"}>Essay</Link>
+      <Link to={"/essay"}>Theory</Link>
       <Link to={"/artwork"}>Artwork</Link>
       <Link to={"/about"}>About</Link>
 

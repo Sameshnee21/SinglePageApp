@@ -1,10 +1,13 @@
 import React from "react";
+
 import "../style/home.css";
 
 function Essay() {
     return (
       <div >
-        <h1 className="Title">Net/ Web Art</h1>
+     
+      
+      <h1 className="Title">Net/ Web Art</h1>
         <h2 className="Title">A Critical Analysis of "Indirect Flights" by Joe Hamilton (2014)</h2>
         <h3 className="Title">WHAT IS NET/ WEB ART? </h3>
 
