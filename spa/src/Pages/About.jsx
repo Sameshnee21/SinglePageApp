@@ -5,6 +5,7 @@ function About() {
     return (
       <div>
         <h1 className="Title">Meet The Designer: Sameshnee Moodley</h1>
+        <img src="../Images/Portrait.png" alt="Biker with helmet" />
         </div>
 
         
