@@ -21,10 +21,9 @@
 
   .home a{
     color: gold;
-    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson,
-      -4px 4px 0 crimson, -5px 5px 0 crimson, -6px 6px 0 crimson;
+    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson;
     font-size: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   .links {
@@ -35,11 +34,10 @@
   
   .links a {
     color: gold;
-    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson,
-      -4px 4px 0 crimson, -5px 5px 0 crimson, -6px 6px 0 crimson;
+    text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson;
     
     margin-left: 20px;
     font-size: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   

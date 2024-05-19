@@ -1,0 +1,16 @@
+.pic{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+
+
+.Profile{
+    color: rgb(255, 118, 6);
+    font-size: 18px;
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
